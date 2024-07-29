@@ -4,7 +4,7 @@ import static java.lang.Math.random;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-
+        // SEGUNDA PRUEBA
 //prueba del ejercicio
         int[] array = new int[10];
 
