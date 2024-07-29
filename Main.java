@@ -5,7 +5,7 @@ import static java.lang.Math.random;
 public class Main {
     public static void main(String[] args) {
 
-
+//prueba del ejercicio
         int[] array = new int[10];
 
         for(int i = 0;i<array.length;i++){
