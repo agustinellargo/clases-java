@@ -4,6 +4,7 @@ import static java.lang.Math.random;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+        // mensajito
         System.out.println("hola Agus");
 
         int[] array = new int[10];
