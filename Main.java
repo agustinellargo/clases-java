@@ -4,8 +4,8 @@ import static java.lang.Math.random;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+        System.out.println("hola Agus");
 
-//prueba del ejercicio
         int[] array = new int[10];
 
         for(int i = 0;i<array.length;i++){
